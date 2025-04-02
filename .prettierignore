@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+build/
+*.md
+*.svg
+*.html
+*.log
+*.lock
+*.snap
+*.yarn
+*.cache
+.expo-shared/
