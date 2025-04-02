@@ -12,7 +12,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "plugins": ["expo-asset"],
+    "plugins": [
+      "expo-asset"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -20,10 +22,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.suvaryankarapet.imagecarousel"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a5ae6cc-5586-4fa5-b37e-4952594bef7e"
+      }
     }
   }
 }
