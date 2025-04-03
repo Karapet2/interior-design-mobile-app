@@ -16,7 +16,8 @@
       "expo-asset"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.suvaryankarapet.imagecarousel"
     },
     "android": {
       "adaptiveIcon": {

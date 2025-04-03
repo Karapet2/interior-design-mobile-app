@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler';
 import React from 'react';
 import { PaperProvider } from 'react-native-paper';
 import AppBackground from './components/AppBackground';
